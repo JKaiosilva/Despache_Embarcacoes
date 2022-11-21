@@ -1,5 +1,6 @@
 <?php
 
+
 $nome = $_POST['nome'];
 $CPF = $_POST['CPF'];
 $dataSaida = $_POST['dataSaida'];
